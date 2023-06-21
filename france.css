@@ -1,0 +1,29 @@
+body{
+    background-image: url(pexels-flo-dahm-699466.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: verdana, arial;
+    color: #baa041;
+    position: relative;
+   
+} 
+#box1{
+    position: relative;
+    font-family: sans-serif;
+    color: #4169ba;
+}
+#box2{
+    top: 300px;
+}
+#borderend{
+    border-style: solid;
+    border-color: rgb(82, 68, 184);
+    border-width: 5px;
+    border-radius: 8px;
+    overflow:auto;
+    color: #baa041;
+}
